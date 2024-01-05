@@ -36,8 +36,8 @@ The dataset was obtained from the National Survey on Drug Use and Health 2015-20
 There are a variety of predictors in the dataset, both categorical and numeric. Examples of some of the predictor variables are age, marital status, education level, employment status, etc. The response variable, PLMISEVR, is a binary variable.
 
 ## Citations
-“Drug Overdose Death Rates.” ***National Institutes of Health***, U.S. Department of Health and Human Services, 9 Feb. 2023, https://nida.nih.gov/research-topics/trends-statistics/overdosedeathrates#:~:text=Opioid%2Dinvolved%20overdose%20deaths%20rose,with%2080%2C411%20reported%20overdose%20deaths.
+“Drug Overdose Death Rates.” *National Institutes of Health*, U.S. Department of Health and Human Services, 9 Feb. 2023, https://nida.nih.gov/research-topics/trends-statistics/overdosedeathrates#:~:text=Opioid%2Dinvolved%20overdose%20deaths%20rose,with%2080%2C411%20reported%20overdose%20deaths.
 
-“Opioid Data Analysis and Resources.” ***Centers for Disease Control and Prevention***, Centers for Disease Control and Prevention, 1 June 2022, https://www.cdc.gov/opioids/data/analysis-resources.html.
+“Opioid Data Analysis and Resources.” *Centers for Disease Control and Prevention*, Centers for Disease Control and Prevention, 1 June 2022, https://www.cdc.gov/opioids/data/analysis-resources.html.
 
-“The High Price of the Opioid Crisis, 2021.” ***The Pew Charitable Trusts***, The Pew Charitable Trusts, 27 Aug. 2021, https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2021/the-high-price-of-the-opioid-crisis-2021.
+“The High Price of the Opioid Crisis, 2021.” *The Pew Charitable Trusts*, The Pew Charitable Trusts, 27 Aug. 2021, https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2021/the-high-price-of-the-opioid-crisis-2021.
