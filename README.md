@@ -1,7 +1,7 @@
 # Opioid Abuse Modeling and Analysis
 In this project I built, evaluated, and analyzed a variety of classification models to obtain the best performing model for predicting opioid abuse in US citizens. In addition to model evaluation, I determined and quantified the factors that have the greatest impact on likelihood of opioid abuse to propose healthcare policies intended to reduce incidence of opioid abuse.
 
-**Project Report:** [Report](https://github.com/mikecrist/AirbnbSafety/blob/main/Report/Report_AirbnbSafety.pdf)
+**Project Report:** [Report](https://github.com/mikecrist/OpioidAbuseAnalysis/blob/main/Report/Report_OpioidAbuse.pdf)
 
 ## Credits
 This project was created for the Georgia Tech Master of Analytics program.<br>
@@ -11,7 +11,6 @@ This project was created for the Georgia Tech Master of Analytics program.<br>
 
 ## Table of Contents
 - [Environment Setup](#Environment-Setup)
-- [Running the Project](#Running-the-Project)
 - [Demo](#Demo)
 
 ## Environment Setup
@@ -26,13 +25,6 @@ conda install -c conda-forge shapely rasterio pyproj pandas jupyterlab geopandas
 pip install statsmodels
 ```
 These packages are needed to work with Geopandas and using Flask as the framework for the website.
-
-## Running the Project
-In the Anaconda prompt, navigate to the folder with this repository and run the below command:
-```
-python app.py
-```
-Then navigate to http://127.0.0.1:5000/ on your browser, and the application will appear.
 
 ## Demo
 ![image](https://github.com/mikecrist/AirbnbSafety/assets/31662579/79f6c0f3-c38f-4010-90af-3ea3baa0c6ec)
